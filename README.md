@@ -101,4 +101,6 @@ The app reads its Flask session signing key from the `SECRET_KEY` environment va
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+The [MIT License](LICENSE) applies to this project's code. It allows anyone to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software, including for commercial purposes, as long as the copyright and license notices are included with substantial copies of the software.
+
+The software is provided "as is", without warranty. See the [license text](LICENSE) for the full terms.

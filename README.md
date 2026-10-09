@@ -101,4 +101,4 @@ The app reads its Flask session signing key from the `SECRET_KEY` environment va
 
 ## License
 
-No license is currently specified for this repository.
+This project is licensed under the [MIT License](LICENSE).
